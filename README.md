@@ -24,8 +24,7 @@ Languages and Tools:
 </div>
 
 Connect with me: 
-[![Uploading Untitled.png…]()
-] (https://www.linkedin.com/in/keerthana-k-477964126/)
+[LinkedIn](https://www.linkedin.com/in/keerthana-k-477964126/)
 <!--
 **VKeerthana3/VKeerthana3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
