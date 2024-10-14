@@ -22,6 +22,10 @@ Languages and Tools:
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
 </div>
+
+Connect with me: 
+[![Uploading Untitled.png…]()
+] (https://www.linkedin.com/in/keerthana-k-477964126/)
 <!--
 **VKeerthana3/VKeerthana3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
