@@ -5,6 +5,12 @@ I'm passionate about software development, artificial intelligence (AI), and lev
 
 I am proficient in HTML, CSS, JavaScript, database management systems, Express.js, and Node.js. My role as a Junior Software Developer at Deighton Associates Limited also honed my competencies in C#, EF Core, unit testing, and debugging. I am now seeking opportunities to grow as a developer and make meaningful contributions by offering innovative solutions.
 
+Languages and Tools: 
+
+<div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+</div>
+
 <!--
 **VKeerthana3/VKeerthana3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
