@@ -24,7 +24,7 @@ Languages and Tools:
 </div>
 
 Connect with me:
-[<img src="https://github.com/user-attachments/assets/949211a5-36fd-4e91-94c9-680a8edc6224" alt="Description" width="300"/>](https://www.linkedin.com/in/keerthana-k-477964126/)
+[<img src="https://github.com/user-attachments/assets/949211a5-36fd-4e91-94c9-680a8edc6224" alt="Description" width="30"/>](https://www.linkedin.com/in/keerthana-k-477964126/)
 <!--
 **VKeerthana3/VKeerthana3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
