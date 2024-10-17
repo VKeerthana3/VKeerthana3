@@ -1,4 +1,4 @@
-						**Hi there, I'm Keerthana!** 👋
+						<bold>Hi there, I'm Keerthana!</bold> 👋
 
 
 I'm passionate about software development, artificial intelligence (AI), and leveraging code to solve problems faced by businesses. As a recent graduate with a Master of Engineering in Electrical and Computer Engineering at Ontario Tech University, my degree has not only enhanced my technical skills, but also honed my problem-solving, critical thinking, and analytical skills, which are essential to excel in software development roles. 
@@ -27,13 +27,8 @@ Connect with me: <br>
 [<img src="https://github.com/user-attachments/assets/949211a5-36fd-4e91-94c9-680a8edc6224" alt="Description" width="30"/>](https://www.linkedin.com/in/keerthana-k-477964126/)
 
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=VKeerthana3)
-
-
-
-
-
 <!--
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=VKeerthana3)
 
 Most Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VKeerthana3)](https://github.com/VKeerthana3/github-readme-stats)
