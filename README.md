@@ -26,6 +26,13 @@ Languages and Tools:
 Connect with me: <br>
 [<img src="https://github.com/user-attachments/assets/949211a5-36fd-4e91-94c9-680a8edc6224" alt="Description" width="30"/>](https://www.linkedin.com/in/keerthana-k-477964126/)
 
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=VKeerthana3)
+
+
+
+
+
 <!--
 
 Most Used Languages:
