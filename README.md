@@ -33,6 +33,12 @@ I am proficient in HTML, CSS, JavaScript, database management systems, Express.j
   [<img src="https://github.com/user-attachments/assets/949211a5-36fd-4e91-94c9-680a8edc6224" alt="Description" width="30"/>](https://www.linkedin.com/in/keerthana-k-477964126/)
 </div>
 
+<div align="center">
+  <a href="the-link">
+    <img src="https://github.com/user-attachments/assets/949211a5-36fd-4e91-94c9-680a8edc6224" alt="Description" width="30"/>
+  </a>
+</div>
+
 <!--
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=VKeerthana3)
 
