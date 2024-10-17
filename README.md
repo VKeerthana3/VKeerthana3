@@ -25,6 +25,10 @@ Languages and Tools:
 
 Connect with me: <br>
 [<img src="https://github.com/user-attachments/assets/949211a5-36fd-4e91-94c9-680a8edc6224" alt="Description" width="30"/>](https://www.linkedin.com/in/keerthana-k-477964126/)
+
+Most Used Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VKeerthana3)](https://github.com/VKeerthana3/github-readme-stats)
+
 <!--
 **VKeerthana3/VKeerthana3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
