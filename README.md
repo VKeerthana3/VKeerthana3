@@ -34,7 +34,7 @@ I am proficient in HTML, CSS, JavaScript, database management systems, Express.j
 </div>
 
 <div align="center">
-  <a href="the-link">
+  <a href="[the-link](https://www.linkedin.com/in/keerthana-k-477964126/)">
     <img src="https://github.com/user-attachments/assets/949211a5-36fd-4e91-94c9-680a8edc6224" alt="Description" width="30"/>
   </a>
 </div>
