@@ -25,15 +25,9 @@ I am proficient in HTML, CSS, JavaScript, database management systems, Express.j
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
 </div>
 
-<div align="center">Connect with me: </div>
+<div align="center"></div>
 
-[<img src="https://github.com/user-attachments/assets/949211a5-36fd-4e91-94c9-680a8edc6224" alt="Description" width="30"/>](https://www.linkedin.com/in/keerthana-k-477964126/)
-
-<div align="center">
-  [<img src="https://github.com/user-attachments/assets/949211a5-36fd-4e91-94c9-680a8edc6224" alt="Description" width="30"/>](https://www.linkedin.com/in/keerthana-k-477964126/)
-</div>
-
-<div align="center">
+<div align="center">Connect with me: 
   <a href="https://www.linkedin.com/in/keerthana-k-477964126/">
     <img src="https://github.com/user-attachments/assets/949211a5-36fd-4e91-94c9-680a8edc6224" alt="Description" width="30"/>
   </a>
