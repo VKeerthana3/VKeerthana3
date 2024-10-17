@@ -1,5 +1,5 @@
-## Hi there 👋
-I'm Keerthana!
+						## Hi there, I'm Keerthana! 👋
+
 
 I'm passionate about software development, artificial intelligence (AI), and leveraging code to solve problems faced by businesses. As a recent graduate with a Master of Engineering in Electrical and Computer Engineering at Ontario Tech University, my degree has not only enhanced my technical skills, but also honed my problem-solving, critical thinking, and analytical skills, which are essential to excel in software development roles. 
 
