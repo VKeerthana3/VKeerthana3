@@ -9,6 +9,8 @@ I am proficient in HTML, CSS, JavaScript, database management systems, Express.j
 
 <div align="center">Tools and Technologies: </div> 
 
+<br>
+
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
@@ -26,6 +28,8 @@ I am proficient in HTML, CSS, JavaScript, database management systems, Express.j
 </div>
 
 <div align="center">Connect with me: </div>
+
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/keerthana-k-477964126/">
